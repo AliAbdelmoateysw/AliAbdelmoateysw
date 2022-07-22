@@ -15,4 +15,4 @@ Also visualize the result using tableu to make  it easier to understand. I reall
 ### ✨Contact✨:
 - 📱 [LinkedIn](https://www.linkedin.com/in/ali-abdelmoatey-906b00192/)
 - 📊 [Tableau](https://public.tableau.com/app/profile/ali.abdelmoatey)
-- 📫 Gmail aliabdelmoateysw@gmail.com
+- 📫 Gmail: aliabdelmoateysw@gmail.com
