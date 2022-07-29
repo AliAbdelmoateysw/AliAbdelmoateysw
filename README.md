@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Ali Abdelmoatey
 
-I'm from Egypt, and i'm a data analyst, i manipulate data using SQL, Python and Excel to produce innovative solutions to every problem, 
-Also visualize the result using tableu to make  it easier to understand. I really enjoy developing myself by learning new methods and frameworks.
+I'm software engineer, Graduted from Computer and Artificial Intelligence HU, also a passionate data analyst who has experience with  **SQL, Python, Excel** and more. I utilize these experience and my problem solving skills for **data cleansing, mining and visualization** using **Tableu**.
 
 ## ✨Skills✨:
 - Python, Java, C++
